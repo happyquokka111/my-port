@@ -10,7 +10,7 @@ const About = () => {
         I am a junior at Brown University studying Computer Science and
         Contemplative Studies. Previously, I worked as a UX designer at [Company
         Name]. I am passionate about technology and the impact it has on
-        people's lives and am always looking to work on new projects!
+        people's lives and am always looking to work on new projects
       </p>
     </div>
   );
